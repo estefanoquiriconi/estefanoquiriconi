@@ -2,27 +2,6 @@
 
 I am a Full Stack Developer and a recent graduate from the National University of Santiago del Estero with a degree as a University Programmer in Computer Science. My passion for software development has driven me to specialize in backend development and DevOps. I also have solid training as a Full Stack Web Developer and Data Analyst, gained through my studies at Digital House. My experience includes working with modern technologies, managing Linux servers, and developing scalable and efficient software solutions. I am deeply committed to continuous learning and growing as a proficient Software Engineer.  
 
----
-
-### **Areas of Expertise**  
-
-- **Backend Development & APIs**: Designed and implemented RESTful APIs for e-commerce and educational platforms, ensuring scalability, efficiency, and security.  
-- **DevOps & Server Administration**: Experience managing Linux servers, cloud deployments, CI/CD pipelines, and Dockerized environments to streamline development workflows.  
-- **Full Stack Development**: Proficient in creating dynamic and responsive web and mobile applications, seamlessly integrating backend and frontend systems.  
-- **Data Analysis & Databases**: Skilled in database design, optimization, and querying with tools like MySQL, PostgreSQL, and MongoDB, applied in real-world projects for performance insights.  
-
----
-
-### **I Am Open To**  
-
-- **Junior Developer Roles**: Entry-level positions in backend, full stack, or DevOps to kickstart my professional career.  
-- **Collaborative Teams**: Thriving in environments that encourage knowledge sharing, teamwork, and innovation.  
-- **Backend-focused Opportunities**: Excited to tackle challenges in backend development, server optimization, and DevOps pipelines.  
-- **Challenging Projects**: Looking for projects that push my problem-solving skills and offer opportunities to learn and grow.  
-- **Learning New Technologies**: Enthusiastic about adopting and mastering emerging tools, frameworks, and methodologies.
-
----
-
 ### **Technical Skills**
 
 #### **Languages**
