@@ -1,6 +1,6 @@
 ### Hi there! I'm Estéfano Quiriconi 👋  
 
-I am a Full Stack Developer and a recent graduate from the National University of Santiago del Estero with a degree as a University Programmer in Computer Science. My passion for software development has driven me to specialize in backend development and DevOps. I also have solid training as a Full Stack Web Developer and Data Analyst, gained through my studies at Digital House. My experience includes working with modern technologies, managing Linux servers, and developing scalable and efficient software solutions. I am deeply committed to continuous learning and growing as a proficient Software Engineer.  
+I am a Full Stack Developer and a recent graduate from the National University of Santiago del Estero with a degree as a University Programmer in Computer Science. My passion for software development drives me to build complete and efficient solutions, combining modern technologies. I also have solid training as a Full Stack Web Developer and Data Analyst, gained through my studies at Digital House. My experience includes working with modern technologies, managing Linux servers, and developing scalable and efficient software solutions. I am deeply committed to continuous learning and to achieving my goal of becoming a proficient Software Engineer.
 
 ### **Technical Skills**
 
