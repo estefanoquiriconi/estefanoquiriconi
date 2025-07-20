@@ -30,6 +30,7 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"  />
   <img src="https://skillicons.dev/icons?i=vite" height="45" alt="vite logo"  />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
   <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
   <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
@@ -38,4 +39,6 @@
   <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo"  />
   <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
   <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
 </div>
