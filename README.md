@@ -12,7 +12,7 @@
 
 ### 📊 GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=estefanoquiriconi&theme=dark&border_radius=10&hide_border=true&background=0D1117&stroke=30A3DC&ring=30A3DC&fire=FF6B35&currStreakLabel=30A3DC)](https://github.com/YourGitHubUsername)
+[![GitHub Streak](https://streak-stats.demolab.com?user=estefanoquiriconi&theme=dark&border_radius=10&hide_border=true&background=0D1117&stroke=30A3DC&ring=30A3DC&fire=FF6B35&currStreakLabel=30A3DC)](https://github.com/estefanoquiriconi)
 
 ## Technologies:
 <div align="left">
