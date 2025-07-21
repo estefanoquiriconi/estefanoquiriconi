@@ -16,7 +16,6 @@
 
 ## Technologies:
 <div align="left">
-  <!-- Lenguajes -->
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo" />
   <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo" />
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo" />
@@ -24,33 +23,23 @@
   <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo" />
-
-  <!-- Frontend frameworks -->
   <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo" />
   <img src="https://skillicons.dev/icons?i=alpinejs" height="45" alt="alpinejs logo" />
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo" />
   <img src="https://skillicons.dev/icons?i=vite" height="45" alt="vite logo" />
-
-  <!-- Backend frameworks -->
   <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo" />
   <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="45" alt="nestjs logo" />
   <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="laravel logo" />
   <img src="https://skillicons.dev/icons?i=bun" height="45" alt="bun logo" />
-
-  <!-- Testing -->
   <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo" />
-
-  <!-- Bases de datos y ORMs -->
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" />
   <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo" />
   <img src="https://skillicons.dev/icons?i=sequelize" height="45" alt="sequelize logo" />
   <img src="https://skillicons.dev/icons?i=prisma" height="45" alt="prisma logo" />
-
-  <!-- DevOps / Tools -->
   <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo" />
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo" />
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo" />
