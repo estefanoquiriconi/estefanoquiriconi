@@ -1,7 +1,10 @@
 Hey there! I’m **Estéfano Quiriconi**
 
 Full Stack Developer at   <img src="[https://imaginar.com.ar/favicon.ico](https://imaginar.com.ar/favicon.ico)" height="45" alt="Laravel logo" />
+[https://imaginar.com.ar/favicon.icohttps://imaginar.com.ar/favicon.ico
+](https://imaginar.com.ar/favicon.ico)
 
+[IMAGINAR](https://imaginar.com.ar/favicon.ico)
 University-Level Computer Programmer (UNSE) & Full Stack Web Developer (Digital House)
 
 Focused on Clean Architecture, Domain-Driven Design (DDD), and SOLID principles
