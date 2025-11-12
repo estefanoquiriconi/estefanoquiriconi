@@ -1,6 +1,6 @@
 Hey there! I’m **Estéfano Quiriconi**
 
-Full Stack Developer at   <img src="https://imaginar.com.ar/favicon.ico" height="45" alt="Laravel logo" />
+Full Stack Developer at   <img src="[https://imaginar.com.ar/favicon.ico](https://imaginar.com.ar/favicon.ico)" height="45" alt="Laravel logo" />
 
 University-Level Computer Programmer (UNSE) & Full Stack Web Developer (Digital House)
 
