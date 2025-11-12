@@ -16,20 +16,17 @@
 
 ## Technologies:
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo" />
   <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="laravel logo" />
   <img src="https://skills.syvixor.com/api/icons?i=inertiajs" height="45" alt="inertia logo" />
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo" />
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo" />
-  <img src="https://skills.syvixor.com/api/icons?i=livewire" height="45" alt="inertia logo" />
-  <img src="https://skillicons.dev/icons?i=alpinejs" height="45" alt="alpinejs logo" />
+  <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo" />
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo" />
   <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo" />
-  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo" />
   <img src="https://skillicons.dev/icons?i=vite" height="45" alt="vite logo" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo" />
   <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo" />
 </div>
