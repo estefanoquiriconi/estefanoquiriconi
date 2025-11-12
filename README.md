@@ -1,7 +1,5 @@
 Hey there! I’m **Estéfano Quiriconi**
 
-**Full Stack Developer | Laravel + Inertia.js + React + TypeScript Specialist**
-
 Full Stack Developer at [Imaginar Company Technology S.A.S.](https://imaginar.com.ar/es)
 
 University-Level Computer Programmer (UNSE) & Full Stack Web Developer (Digital House)
