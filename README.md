@@ -1,6 +1,6 @@
 Hey there! I’m **Estéfano Quiriconi**
 
-Full Stack Developer at <a href="https://imaginar.com.ar/es" target="_blank">Imaginar Company Technology S.A.S.</a>
+Full Stack Developer at <a href="https://imaginar.com.ar/es" target="_blank">Imaginar</a>
 
 University-Level Computer Programmer (UNSE) & Full Stack Web Developer (Digital House)
 
