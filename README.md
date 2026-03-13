@@ -21,6 +21,8 @@ Passionate about building modern, scalable, and maintainable web applications
   <img src="https://skills.syvixor.com/api/icons?i=inertiajs" height="45" alt="Inertia.js logo" />
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript logo" />
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="React logo" />
+  <img src="https://skillicons.dev/icons?i=vue" height="45" alt="Vue logo" />
+  <img src="https://skillicons.dev/icons?i=vitest" height="45" alt="Vitest logo" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS logo" />
   <img src="https://skillicons.dev/icons?i=php" height="45" alt="PHP logo" />
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript logo" />
