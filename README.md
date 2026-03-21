@@ -17,19 +17,20 @@ Passionate about building modern, scalable, and maintainable web applications
 ## Technologies:
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="Laravel logo" />
-  <img src="https://skills.syvixor.com/api/icons?i=inertiajs" height="45" alt="Inertia.js logo" />
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript logo" />
+  <img src="https://skillicons.dev/icons?i=php" height="45" alt="PHP logo" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="Laravel logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js logo" />
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="React logo" />
   <img src="https://skillicons.dev/icons?i=vue" height="45" alt="Vue logo" />
+  <img src="https://skillicons.dev/icons?i=vite" height="45" alt="Vite logo" />
   <img src="https://skillicons.dev/icons?i=vitest" height="45" alt="Vitest logo" />
+  <img src="https://skills.syvixor.com/api/icons?i=inertiajs" height="45" alt="Inertia.js logo" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS logo" />
-  <img src="https://skillicons.dev/icons?i=php" height="45" alt="PHP logo" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="Bootstrap logo" />
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript logo" />
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5 logo" />
   <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3 logo" />
-  <img src="https://skillicons.dev/icons?i=vite" height="45" alt="Vite logo" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js logo" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL logo" />
   <img src="https://skillicons.dev/icons?i=docker" height="45" alt="Docker logo" />
 </div>
