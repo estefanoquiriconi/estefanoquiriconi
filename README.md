@@ -1,10 +1,12 @@
-Hey there! I’m **Estéfano Quiriconi**
+Hey there! I'm Estéfano Quiriconi
 
-Full Stack Developer at <a href="https://imaginar.com.ar/es" target="_blank">Imaginar</a>
+SSR Full Stack Developer
 
 University-Level Computer Programmer (UNSE) & Full Stack Web Developer (Digital House)
 
-Focused on Clean Architecture, Domain-Driven Design (DDD), and SOLID principles
+Focused on Clean Code, Clean Architecture, and SOLID principles
+
+Working daily with Laravel, Vue, React, TypeScript, Docker, and CI/CD workflows
 
 Exploring AI-assisted development to enhance productivity and code quality
 
