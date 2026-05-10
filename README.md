@@ -1,4 +1,4 @@
-Hey there! I'm Estéfano Quiriconi
+Hey, I'm Estéfano Quiriconi
 
 SSR Full Stack Developer
 
